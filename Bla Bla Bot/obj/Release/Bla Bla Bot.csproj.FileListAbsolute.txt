@@ -1,0 +1,26 @@
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\Bla Bla Bot.exe.config
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\Bla Bla Bot.exe
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\Bla Bla Bot.pdb
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\DSharpPlus.CommandsNext.dll
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\DSharpPlus.dll
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\Imgur.API.dll
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\Newtonsoft.Json.dll
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\DSharpPlus.xml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\DSharpPlus.CommandsNext.xml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\Imgur.API.xml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Release\Newtonsoft.Json.xml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\EditSettings.g.cs
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\MainWindow.g.cs
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\App.g.cs
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot_MarkupCompile.cache
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot_MarkupCompile.lref
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\EditSettings.baml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\MainWindow.baml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot.g.resources
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla_Bla_Bot.Properties.Resources.resources
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot.csproj.CopyComplete
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot.exe
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Release\Bla Bla Bot.pdb

@@ -1,0 +1,27 @@
+﻿<Window x:Class="Bla_Bla_Bot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bla_Bla_Bot"
+        mc:Ignorable="d"
+        Title="Bla Bla Bot" Height="450" Width="800" Icon="Acorn.ico">
+    <Grid>
+        <StatusBar HorizontalAlignment="Left" Height="42" Margin="0,377,0,0" VerticalAlignment="Top" Width="782">
+            <Label x:Name="status_label" Content="Состояние: Выключен"/>
+            <Separator/>
+            <Label x:Name="eventscount_label" Content="Событий: 0"/>
+            <Label x:Name="messagescount_label" Content="Сообщений: 0"/>
+        </StatusBar>
+        <GroupBox Header="Состояние" HorizontalAlignment="Left" Height="86" Margin="10,10,0,0" VerticalAlignment="Top" Width="122">
+            <Grid>
+                <Button x:Name="enable" Content="Включить" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="93" Click="Button_Click"/>
+                <Button x:Name="disable" Content="Выключить" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="93" IsEnabled="False" Click="disable_Click"/>
+            </Grid>
+        </GroupBox>
+        <ListBox x:Name="list_guilds" HorizontalAlignment="Left" Height="250" Margin="10,122,0,0" VerticalAlignment="Top" Width="200" SelectionChanged="list_guilds_SelectionChanged"/>
+        <Label Content="Список серверов" HorizontalAlignment="Left" Margin="10,96,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="log_box" HorizontalAlignment="Left" Height="362" Margin="215,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="567" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/>
+
+    </Grid>
+</Window>

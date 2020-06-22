@@ -1,0 +1,226 @@
+[2020-06-13 02:32:15.598][Main] Ошибка при добавлении сервера в список. Элемент с тем же ключом уже был добавлен..
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в Bla_Bla_Bot.MainWindow.Client_GuildAvailable(GuildCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\MainWindow.xaml.cs:строка 139
+[2020-06-13 03:01:30.715][Main] Ошибка при добавлении сервера в список. Элемент с тем же ключом уже был добавлен..
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в Bla_Bla_Bot.MainWindow.Client_GuildAvailable(GuildCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\MainWindow.xaml.cs:строка 139
+[2020-06-13 03:26:45.049][Main] Ошибка при добавлении сервера в список. Элемент с тем же ключом уже был добавлен..
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в Bla_Bla_Bot.MainWindow.Client_GuildAvailable(GuildCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\MainWindow.xaml.cs:строка 139
+[2020-06-13 03:58:52.706][Main] Ошибка при добавлении сервера в список. Элемент с тем же ключом уже был добавлен..
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в Bla_Bla_Bot.MainWindow.Client_GuildAvailable(GuildCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\MainWindow.xaml.cs:строка 139
+[2020-06-13 05:39:46.350][Main] Ошибка при добавлении сервера в список. Элемент с тем же ключом уже был добавлен..
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в Bla_Bla_Bot.MainWindow.Client_GuildAvailable(GuildCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\MainWindow.xaml.cs:строка 139
+[2020-06-13 06:27:53.467][Main] Ошибка при добавлении сервера в список. Элемент с тем же ключом уже был добавлен..
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в Bla_Bla_Bot.MainWindow.Client_GuildAvailable(GuildCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\MainWindow.xaml.cs:строка 139
+[2020-06-13 07:07:42.247][Main] Ошибка при добавлении сервера в список. Элемент с тем же ключом уже был добавлен..
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в Bla_Bla_Bot.MainWindow.Client_GuildAvailable(GuildCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\MainWindow.xaml.cs:строка 139
+[2020-06-13 07:14:59.453][Send Emote] Отправили эмоцию lick от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:15:04.947][Send Emote] Заменили эмоцию lick от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:15:15.162][Send Emote] Заменили эмоцию lick от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:15:21.092][Send Emote] Заменили эмоцию lick от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:15:26.382][Send Emote] Заменили эмоцию lick от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:16:00.449][Send Emote] Отключили возможность обновлять эмоцию на сообщении Message 721216016860053555; Attachment count: 0; Embed count: 1; Contents: .
+[2020-06-13 07:18:03.745][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:18:03.768][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:19:18.128][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:19:18.147][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:23:08.797][Main] Запустили бота.
+[2020-06-13 07:23:10.296][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 07:24:03.833][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:03.845][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:05.819][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:06.137][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:06.146][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:06.152][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:06.390][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:06.397][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:54.075][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:24:54.081][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:11.912][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:11.931][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:18.590][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:18.609][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:26.104][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:26.110][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:35.431][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:35.450][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:38.108][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:38.114][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:40.466][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:40.484][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:42.941][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:42.959][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:46.966][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:46.984][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:52.049][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:25:52.058][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:26:00.282][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:26:00.288][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:26:02.992][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:26:30.511][Main] Запустили бота.
+[2020-06-13 07:26:33.083][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 07:35:41.491][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:41.514][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:41.757][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:41.764][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:42.001][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:42.008][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:42.270][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:42.277][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:42.541][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:42.550][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:48.274][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:48.280][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:48.489][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:48.495][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:48.810][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:48.816][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:49.064][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:49.071][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:49.325][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:49.331][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:49.570][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:35:49.577][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:36:13.227][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:36:13.246][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:36:23.850][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:36:23.856][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 07:50:45.515][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:50:45.535][Anti Flood Mention] Кикнули пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv) с сервера Bla Bla Home|662792655314485268.
+[2020-06-13 07:50:51.877][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:50:51.896][Anti Flood Mention] Кикнули пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv) с сервера Bla Bla Home|662792655314485268.
+[2020-06-13 07:50:57.850][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:50:57.869][Anti Flood Mention] Кикнули пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv) с сервера Bla Bla Home|662792655314485268.
+[2020-06-13 07:50:58.516][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:50:58.523][Anti Flood Mention] Кикнули пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv) с сервера Bla Bla Home|662792655314485268.
+[2020-06-13 07:50:59.110][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:50:59.117][Anti Flood Mention] Кикнули пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv) с сервера Bla Bla Home|662792655314485268.
+[2020-06-13 07:50:59.123][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 07:50:59.130][Anti Flood] Предупредили пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 08:24:25.655][Main] Запустили бота.
+[2020-06-13 08:24:27.301][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 08:26:07.517][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 08:26:07.543][Anti Flood] Наказали пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 08:28:18.143][Main] Запустили бота.
+[2020-06-13 08:28:19.644][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 08:28:41.159][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 08:28:41.184][Anti Flood] Наказали пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 08:29:42.088][Send Emote] Удалили роль мута Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 08:30:43.993][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv).
+[2020-06-13 08:30:44.013][Anti Flood Mention] Кикнули пользователя Member 248183897102221313; Loki Siv#1065 (Loki Siv) с сервера Bla Bla Home|662792655314485268.
+[2020-06-13 08:40:56.392][Main] Запустили бота.
+[2020-06-13 08:40:58.948][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 08:41:45.328][Main] Запустили бота.
+[2020-06-13 08:41:46.845][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 08:42:02.832][Main] Запустили бота.
+[2020-06-13 08:42:04.324][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:04:11.909][Main] Запустили бота.
+[2020-06-13 09:04:13.402][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:11:27.859][Main] Запустили бота.
+[2020-06-13 09:11:29.421][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:12:18.973][Main] Запустили бота.
+[2020-06-13 09:12:20.530][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:13:54.845][Main] Запустили бота.
+[2020-06-13 09:13:56.341][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:14:20.593][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:14:20.617][Anti Flood Mention] Наказали пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:14:21.046][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:14:21.076][Anti Flood Mention] Ошибка при применении наказания. Элемент с тем же ключом уже был добавлен.
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   в Bla_Bla_Bot.Components.Anti_Flood_Mentions.Client_MessageCreated(MessageCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\Components\Anti Flood Mentions.cs:строка 73
+[2020-06-13 09:14:21.409][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:14:21.416][Anti Flood Mention] Ошибка при применении наказания. Элемент с тем же ключом уже был добавлен.
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   в Bla_Bla_Bot.Components.Anti_Flood_Mentions.Client_MessageCreated(MessageCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\Components\Anti Flood Mentions.cs:строка 73
+[2020-06-13 09:15:20.791][Send Emote] Удалили роль мута Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:17:10.911][Main] Запустили бота.
+[2020-06-13 09:17:12.461][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:17:33.627][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:17:33.644][Anti Flood Mention] Наказали пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:17:34.239][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:17:34.716][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:17:35.198][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:18:34.014][Send Emote] Удалили роль мута Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:20:04.326][Main] Запустили бота.
+[2020-06-13 09:20:05.833][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:31:14.990][Main] Запустили бота.
+[2020-06-13 09:31:24.492][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:32:19.706][Send Emote] Отправили эмоцию emote от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:33:01.116][Main] Запустили бота.
+[2020-06-13 09:33:02.693][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 09:33:14.664][Send Emote] Отправили эмоцию fuck you от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:33:22.806][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:34:14.761][Send Emote] Отключили возможность обновлять эмоцию на сообщении Message 721250809030901830; Attachment count: 0; Embed count: 1; Contents: .
+[2020-06-13 09:34:25.238][Send Emote] Отправили эмоцию привет от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:34:31.473][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:34:37.993][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:35:17.386][Send Emote] Отправили эмоцию fuck you от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:35:25.883][Send Emote] Отключили возможность обновлять эмоцию на сообщении Message 721251104700235927; Attachment count: 0; Embed count: 1; Contents: .
+[2020-06-13 09:36:07.767][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 09:36:18.024][Send Emote] Отключили возможность обновлять эмоцию на сообщении Message 721251323705819206; Attachment count: 0; Embed count: 1; Contents: .
+[2020-06-13 12:11:16.415][Send Emote] Отправили эмоцию suicide от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:11:32.008][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:11:37.567][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:11:49.691][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:12:17.276][Send Emote] Отключили возможность обновлять эмоцию на сообщении Message 721290584232296481; Attachment count: 0; Embed count: 1; Contents: .
+[2020-06-13 12:12:47.499][Send Emote] Отправили эмоцию suicide от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:13:02.398][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:13:22.417][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:13:28.866][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:13:46.658][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:13:48.484][Send Emote] Отключили возможность обновлять эмоцию на сообщении Message 721290966635380836; Attachment count: 0; Embed count: 1; Contents: .
+[2020-06-13 12:14:00.191][Send Emote] Отправили эмоцию dead от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:14:12.294][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:14:19.129][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:14:24.673][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:14:31.875][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:14:38.455][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:14:46.633][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:14:53.536][Send Emote] Заменили эмоцию custom от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 12:15:00.668][Send Emote] Отключили возможность обновлять эмоцию на сообщении Message 721291271490109530; Attachment count: 0; Embed count: 1; Contents: .
+[2020-06-13 14:41:27.286][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 485875621436850248; Admiral#3960 (Admiral).
+[2020-06-13 14:41:27.321][Anti Flood Mention] Наказали пользователя Member 485875621436850248; Admiral#3960 (Admiral).
+[2020-06-13 14:42:27.957][Send Emote] Удалили роль мута Member 485875621436850248; Admiral#3960 (Admiral).
+[2020-06-13 16:15:31.575][Main] Запустили бота.
+[2020-06-13 16:15:33.179][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 16:23:13.657][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 16:23:13.700][Anti Flood Mention] Наказали пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 16:23:21.026][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 16:23:21.978][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 385101696302317588; Тёмный_Ангел#2911 (Тёмный_Ангел).
+[2020-06-13 16:23:21.987][Anti Flood Mention] Наказали пользователя Member 385101696302317588; Тёмный_Ангел#2911 (Тёмный_Ангел).
+[2020-06-13 16:24:13.829][Send Emote] Удалили роль мута Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-13 16:24:22.846][Send Emote] Удалили роль мута Member 385101696302317588; Тёмный_Ангел#2911 (Тёмный_Ангел).
+[2020-06-13 16:35:24.398][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 385101696302317588; Тёмный_Ангел#2911 (Тёмный_Ангел).
+[2020-06-13 16:35:24.420][Anti Flood] Наказали пользователя Member 385101696302317588; Тёмный_Ангел#2911 (Тёмный_Ангел).
+[2020-06-13 16:35:25.213][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 385101696302317588; Тёмный_Ангел#2911 (Тёмный_Ангел).
+[2020-06-13 16:35:25.271][Anti Flood Mention] Ошибка при применении наказания. Элемент с тем же ключом уже был добавлен.
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   в Bla_Bla_Bot.Components.Anti_Flood.Client_MessageCreated(MessageCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\Components\Anti Flood.cs:строка 76
+[2020-06-13 16:35:25.510][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 385101696302317588; Тёмный_Ангел#2911 (Тёмный_Ангел).
+[2020-06-13 16:35:25.520][Anti Flood Mention] Ошибка при применении наказания. Элемент с тем же ключом уже был добавлен.
+   в System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   в System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   в System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   в Bla_Bla_Bot.Components.Anti_Flood.Client_MessageCreated(MessageCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\Components\Anti Flood.cs:строка 76
+[2020-06-13 16:36:24.884][Send Emote] Удалили роль мута Member 385101696302317588; Тёмный_Ангел#2911 (Тёмный_Ангел).
+[2020-06-13 16:38:20.094][Main] Запустили бота.
+[2020-06-13 16:38:21.689][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-13 17:38:33.620][Main] [ERROR][Furry] Ссылка на объект не указывает на экземпляр объекта.

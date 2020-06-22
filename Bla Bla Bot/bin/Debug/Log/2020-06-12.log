@@ -1,0 +1,136 @@
+[2020-06-12 17:32:27.956][Main] Запустили бота.
+[2020-06-12 17:35:18.961][Main] Запустили бота.
+[2020-06-12 17:42:25.553][Main] Запустили бота.
+[2020-06-12 17:43:09.562][Main] Запустили бота.
+[2020-06-12 17:43:31.418][Main] Запустили бота.
+[2020-06-12 17:45:00.935][Main] Запустили бота.
+[2020-06-12 17:45:54.465][Main] Запустили бота.
+[2020-06-12 17:46:58.256][Main] Запустили бота.
+[2020-06-12 17:47:20.477][Main] Запустили бота.
+[2020-06-12 17:51:02.881][Main] Запустили бота.
+[2020-06-12 18:07:53.000][Main] Запустили бота.
+[2020-06-12 18:41:11.109][Main] Запустили бота.
+[2020-06-12 18:42:04.038][Main] Запустили бота.
+[2020-06-12 18:42:46.962][Main] Запустили бота.
+[2020-06-12 19:16:25.126][Main] Запустили бота.
+[2020-06-12 19:18:39.148][Main] Запустили бота.
+[2020-06-12 19:19:56.274][Main] Запустили бота.
+[2020-06-12 19:20:37.440][Main] Запустили бота.
+[2020-06-12 19:23:56.145][Main] Запустили бота.
+[2020-06-12 19:23:58.169][Main] Ошибка при добавлении сервера в список. Вызывающий поток не может получить доступ к данному объекту, так как владельцем этого объекта является другой поток..
+   в System.Windows.Threading.Dispatcher.VerifyAccess()
+   в System.Windows.DependencyObject.GetValue(DependencyProperty dp)
+   в System.Windows.Controls.Panel.get_IsItemsHost()
+   в System.Windows.Controls.ItemsControl.GetItemsOwnerInternal(DependencyObject element, ItemsControl& itemsControl)
+   в System.Windows.Controls.Panel.VerifyBoundState()
+   в System.Windows.Controls.Panel.OnItemsChanged(Object sender, ItemsChangedEventArgs args)
+   в System.Windows.Controls.ItemContainerGenerator.OnItemAdded(Object item, Int32 index)
+   в System.Windows.Controls.ItemContainerGenerator.OnCollectionChanged(Object sender, NotifyCollectionChangedEventArgs args)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.Windows.WeakEventManager.DeliverEvent(Object sender, EventArgs args)
+   в System.Collections.Specialized.CollectionChangedEventManager.OnCollectionChanged(Object sender, NotifyCollectionChangedEventArgs args)
+   в System.Collections.Specialized.NotifyCollectionChangedEventHandler.Invoke(Object sender, NotifyCollectionChangedEventArgs e)
+   в System.Windows.Data.CollectionView.OnCollectionChanged(NotifyCollectionChangedEventArgs args)
+   в System.Windows.Controls.ItemCollection.OnViewCollectionChanged(Object sender, NotifyCollectionChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.Windows.WeakEventManager.DeliverEvent(Object sender, EventArgs args)
+   в System.Collections.Specialized.CollectionChangedEventManager.OnCollectionChanged(Object sender, NotifyCollectionChangedEventArgs args)
+   в System.Windows.Data.CollectionView.OnCollectionChanged(NotifyCollectionChangedEventArgs args)
+   в MS.Internal.Controls.InnerItemCollectionView.Add(Object item)
+   в System.Windows.Controls.ItemCollection.Add(Object newItem)
+   в Bla_Bla_Bot.MainWindow.Client_GuildAvailable(GuildCreateEventArgs e) в C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\MainWindow.xaml.cs:строка 121
+[2020-06-12 19:24:52.450][Main] Запустили бота.
+[2020-06-12 19:24:53.954][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 19:25:19.439][Anti Flood Mention] Обнаружили превышение.
+[2020-06-12 19:25:46.510][Anti Flood Mention] Обнаружили превышение.
+[2020-06-12 19:26:09.324][Anti Flood Mention] Обнаружили превышение.
+[2020-06-12 19:26:31.494][Anti Flood Mention] Обнаружили превышение.
+[2020-06-12 19:26:31.977][Anti Flood Mention] Обнаружили превышение.
+[2020-06-12 19:35:45.045][Main] Запустили бота.
+[2020-06-12 19:35:47.573][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 19:35:58.744][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 19:35:59.348][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 19:35:59.962][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 19:36:00.555][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:10:04.973][Main] Запустили бота.
+[2020-06-12 20:10:07.510][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:11:52.769][Main] Запустили бота.
+[2020-06-12 20:11:54.348][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:25:03.880][Main] Запустили бота.
+[2020-06-12 20:25:06.500][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:26:43.533][Main] Запустили бота.
+[2020-06-12 20:26:45.048][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:37:15.728][Main] Запустили бота.
+[2020-06-12 20:37:18.294][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:37:33.034][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:37:33.058][Anti Flood] Кикнули пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName) с сервера Bla Bla Home|662792655314485268.
+[2020-06-12 20:37:33.318][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:37:33.325][Anti Flood] Кикнули пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName) с сервера Bla Bla Home|662792655314485268.
+[2020-06-12 20:37:33.570][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:37:33.577][Anti Flood] Кикнули пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName) с сервера Bla Bla Home|662792655314485268.
+[2020-06-12 20:37:33.791][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:37:33.798][Anti Flood] Кикнули пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName) с сервера Bla Bla Home|662792655314485268.
+[2020-06-12 20:37:34.048][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:37:34.055][Anti Flood] Кикнули пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName) с сервера Bla Bla Home|662792655314485268.
+[2020-06-12 20:38:11.024][Main] Запустили бота.
+[2020-06-12 20:38:12.576][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:38:17.014][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:17.039][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:17.222][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:17.230][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:17.501][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:17.508][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:17.749][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:17.755][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:33.416][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:38:33.437][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:39:13.602][Main] Запустили бота.
+[2020-06-12 20:39:15.171][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:39:21.780][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:39:21.792][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:39:21.997][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:39:22.004][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:39:22.223][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:39:22.230][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:39:51.560][Main] Запустили бота.
+[2020-06-12 20:39:53.109][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:40:03.417][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:40:03.443][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:40:03.711][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:40:03.718][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:40:04.017][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:40:04.024][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:40:04.257][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:40:04.263][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 20:43:57.083][Main] Запустили бота.
+[2020-06-12 20:43:58.646][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:47:40.678][Main] Запустили бота.
+[2020-06-12 20:47:42.183][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:48:44.118][Main] Запустили бота.
+[2020-06-12 20:48:45.624][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:49:29.491][Main] Запустили бота.
+[2020-06-12 20:49:31.054][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 20:51:00.362][Main] Запустили бота.
+[2020-06-12 20:51:01.894][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 21:21:22.748][Main] Запустили бота.
+[2020-06-12 21:21:24.341][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 21:21:54.256][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 21:21:54.280][Anti Flood Mention] Кикнули пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName) с сервера Bla Bla Home|662792655314485268.
+[2020-06-12 21:21:54.288][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 21:21:54.299][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 21:21:54.531][Anti Flood Mention] Обнаружили превышение упоминаний пользователей на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 21:21:54.543][Anti Flood Mention] Кикнули пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName) с сервера Bla Bla Home|662792655314485268.
+[2020-06-12 21:21:54.550][Anti Flood] Обнаружили превышение сообщений на сервере Bla Bla Home|662792655314485268 от пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 21:21:54.558][Anti Flood] Предупредили пользователя Member 206520588880183298; BlaBlaName#3316 (BlaBlaName).
+[2020-06-12 22:09:48.327][Main] Запустили бота.
+[2020-06-12 22:09:49.948][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 22:13:21.067][Main] Запустили бота.
+[2020-06-12 22:13:22.620][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 22:14:39.955][Main] Запустили бота.
+[2020-06-12 22:14:41.576][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 22:31:41.898][Main] Запустили бота.
+[2020-06-12 22:31:43.823][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 22:33:38.923][Main] Запустили бота.
+[2020-06-12 22:33:40.527][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.
+[2020-06-12 22:34:53.683][Main] Запустили бота.
+[2020-06-12 22:34:55.315][Main] Добавили сервер Bla Bla Home|662792655314485268 в список.

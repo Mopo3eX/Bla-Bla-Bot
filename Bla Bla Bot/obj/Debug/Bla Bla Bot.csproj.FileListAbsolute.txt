@@ -1,0 +1,26 @@
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\Bla Bla Bot.exe.config
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\Bla Bla Bot.exe
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\Bla Bla Bot.pdb
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\DSharpPlus.CommandsNext.dll
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\DSharpPlus.dll
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\DSharpPlus.xml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\DSharpPlus.CommandsNext.xml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\MainWindow.g.cs
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\App.g.cs
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot_MarkupCompile.cache
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot_MarkupCompile.lref
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\MainWindow.baml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot.g.resources
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla_Bla_Bot.Properties.Resources.resources
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot.csproj.CopyComplete
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot.exe
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\Bla Bla Bot.pdb
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\EditSettings.g.cs
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\obj\Debug\EditSettings.baml
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\Imgur.API.dll
+C:\Users\vladi\source\repos\Bla Bla Bot\Bla Bla Bot\bin\Debug\Imgur.API.xml

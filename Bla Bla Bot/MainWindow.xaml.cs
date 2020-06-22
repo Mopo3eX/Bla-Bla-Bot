@@ -1,6 +1,7 @@
 ﻿using Bla_Bla_Bot.Classes;
 using Bla_Bla_Bot.Components;
 using Bla_Bla_Bot.Helpers;
+using Bla_Bla_Bot.Properties;
 using DSharpPlus;
 using DSharpPlus.Entities;
 using Imgur.API.Authentication.Impl;
@@ -11,6 +12,8 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
+using System.Resources;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -66,7 +69,7 @@ namespace Bla_Bla_Bot
                 enable.IsEnabled = false;
                 var cfg = new DiscordConfiguration
                 {
-                    Token = "NzE1ODYyODYzMzk4NTY3OTc4.XtDe6Q.pZTEnR5zEbYJq1T2r9_d7pyXZC4",
+                    Token = Properties.Resources.TOKEN,
                     TokenType = TokenType.Bot,
 
                     AutoReconnect = true,
